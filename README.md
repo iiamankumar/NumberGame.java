@@ -29,7 +29,6 @@ If you guess the number correctly, you win! Otherwise, you'll lose after a certa
 Code Overview
 
 The NumberGame.java program is structured as follows:
-
 Variables:
 randomNumber: Holds the randomly generated number.
 maxAttempts: The maximum number of guesses allowed.
